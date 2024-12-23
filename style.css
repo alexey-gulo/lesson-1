@@ -2,3 +2,9 @@ h1 {
   color: red;
   font-size: 40px;
 }
+
+p {
+  color: gray;
+  font-size: 28px;
+  margin-top: 32px;
+}
